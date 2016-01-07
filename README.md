@@ -1,2 +1,2 @@
 # codingbat-csharp
-CodingBat exercises written in C#
+My solutions in C# to some of the CodingBat (http://codingbat.com) exercises 
